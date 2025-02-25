@@ -1,2 +1,14 @@
-Exercises/*.log
-
+*.log
+*.4ct
+*.4tc
+*.aux
+*.css
+*.dvi
+*.html
+*.idv
+*.xref
+*.tmp
+*.gz
+*.lg
+*.pdf
+.DS_Store
